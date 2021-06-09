@@ -13,6 +13,12 @@
   }
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+ }
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +42,6 @@
     transform: rotate(360deg);
   }
 }
+/* .ui.main.container{
+  margin-top:3em;
+} */
